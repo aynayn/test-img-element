@@ -1,0 +1,17 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
